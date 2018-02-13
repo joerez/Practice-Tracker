@@ -1,0 +1,17 @@
+{
+    "artboards": [
+        "/src/artboards/Untitled.js"
+    ],
+    "symbols": [
+        "/src/symbols/Tee.js"
+    ],
+    "assets": [],
+    "defaultArtboardDirectory": "/src/artboards",
+    "defaultSymbolDirectory": "/src/symbols",
+    "defaultAssetDirectory": "/src/assets",
+    "deviceName": "iPhone X",
+    "deviceOrientation": "portrait",
+    "basePath": "/Users/x/native-playground/my-first-app",
+    "tempPath": "/var/folders/d5/pjck094j5q3cshtc3rbhybxw0000gn/T/Builder6z8tMQN",
+    "useStylesheet": true
+}
